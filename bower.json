@@ -14,7 +14,18 @@
     "webcomponents"
   ],
   "license": "BSD",
-  "ignore": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests",
+    "CONTRIBUTING.md",
+    "DEVELOPING.md",
+    "gulpfile.js",
+    "package.json"
+  ],
   "devDependencies": {
     "web-component-tester": "6.0.0-prerelease.3",
     "webcomponents-platform": "webcomponents/platform#master",
