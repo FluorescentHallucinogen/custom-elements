@@ -2,6 +2,14 @@
   "name": "@webcomponents/custom-elements",
   "version": "1.0.0-alpha.4",
   "description": "HTML Custom Elements Polyfill",
+  "keywords": [
+    "custom-elements",
+    "customelements",
+    "web-components",
+    "webcomponents",
+    "polyfill",
+    "shim"
+  ],
   "main": "custom-elements.min.js",
   "directories": {
     "test": "tests"
