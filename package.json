@@ -20,7 +20,7 @@
     "build": "$(npm bin)/gulp",
     "test": "$(npm bin)/wct"
   },
-  "homepage": "http://webcomponents.org",
+  "homepage": "https://webcomponents.org/polyfills",
   "devDependencies": {
     "bower": "^1.8.0",
     "google-closure-compiler": "^20170124.0.0",
