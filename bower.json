@@ -1,6 +1,7 @@
 {
   "name": "custom-elements",
   "main": "custom-elements.min.js",
+  "description": "HTML Custom Elements Polyfill",
   "version": "1.0.0-alpha.4",
   "homepage": "http://webcomponents.org",
   "authors": [
