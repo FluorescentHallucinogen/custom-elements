@@ -2,7 +2,7 @@
   "name": "custom-elements",
   "main": "custom-elements.min.js",
   "version": "1.0.0-alpha.4",
-  "homepage": "http://webcomponents.org",
+  "homepage": "https://webcomponents.org/polyfills",
   "authors": [
     "The Polymer Authors"
   ],
