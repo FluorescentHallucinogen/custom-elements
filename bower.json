@@ -11,7 +11,12 @@
     "url": "https://github.com/webcomponents/custom-elements.git"
   },
   "keywords": [
-    "webcomponents"
+    "custom-elements",
+    "customelements",
+    "web-components",
+    "webcomponents",
+    "polyfill",
+    "shim"
   ],
   "license": "BSD",
   "ignore": [],
