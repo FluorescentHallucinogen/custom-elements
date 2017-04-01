@@ -18,13 +18,10 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "src",
     "test",
     "tests",
     "CONTRIBUTING.md",
-    "DEVELOPING.md",
-    "gulpfile.js",
-    "package.json"
+    "DEVELOPING.md"
   ],
   "devDependencies": {
     "web-component-tester": "^6.0.0-prerelease.3",
