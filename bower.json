@@ -2,7 +2,6 @@
   "name": "custom-elements",
   "main": "custom-elements.min.js",
   "description": "HTML Custom Elements Polyfill",
-  "version": "1.0.0-rc.2",
   "homepage": "http://webcomponents.org",
   "authors": [
     "The Polymer Authors"
